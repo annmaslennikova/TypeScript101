@@ -1,4 +1,3 @@
-import {} from 'jasmine';
 import {Calculator} from "../main/Calculator";
 import {ArraySummarizer} from "../main/ArraySummarizer";
 
