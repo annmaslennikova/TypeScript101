@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --testPathPattern=src/tests"
+    "test": "jest --testPathPattern=src/tests",
+    "main": "ts-node src/main/main.ts"
   },
   "keywords": [],
   "author": "",
